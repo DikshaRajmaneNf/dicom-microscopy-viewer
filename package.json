@@ -1,5 +1,5 @@
 {
-  "name": "dicom-microscopy-viewer",
+  "name": "@lumenbiomics/dicom-microscopy-viewer",
   "version": "0.48.12",
   "license": "MIT",
   "author": "ImagingDataCommons",
